@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "サマータイムゴースト",
   "base_artist": "水曜日のカンパネラ",
-  "createdAt": "2025-12-21T01:43:18.184248Z",
+  "createdAt": "2026-03-22T02:46:28.050316Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,12 +13,37 @@
       "path": "select/01_サマータイムゴースト_水曜日のカンパネラ.lrc"
     },
     {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サマータイムゴースト - Summer Time Ghost",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/02_サマータイムゴースト_-_Summer_Time_Ghost_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サマータイムゴースト",
+      "artist": "WEDNESDAY CAMPANELLA",
+      "has_synced": true,
+      "path": "select/03_サマータイムゴースト_WEDNESDAY_CAMPANELLA.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "サマータイムゴースト",
       "artist": "水曜日のカンパネラ",
       "has_synced": false,
       "path": "select/pl_01_サマータイムゴースト_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "サマータイムゴースト",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": true,
+      "path": "select/localdb_01_サマータイムゴースト_水曜日のカンパネラ.lrc",
+      "repo_name": "6unJjHRLQqE"
     }
   ]
 }
